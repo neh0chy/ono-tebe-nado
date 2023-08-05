@@ -58,7 +58,7 @@
   padding-right: 1px;
   font-weight: normal;
   font-size: 18px;
-  line-height: 24.3px;
+  line-height: 135%;
 }
 
 .header__address {
@@ -91,7 +91,7 @@
   font-weight: bold;
   font-size: 100px;
   text-transform: uppercase;
-  line-height: 122px;
+  line-height: 123%;
   color: white;
   position: absolute;
   inset: 165px 20px 135px 50px;
