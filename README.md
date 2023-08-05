@@ -9,3 +9,5 @@
 * CSS
 * git
 * GitHub
+
+[Ссылка на репозиторий](https://github.com/neh0chy/ono-tebe-nado.git)
