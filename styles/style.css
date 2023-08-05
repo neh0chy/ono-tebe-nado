@@ -38,6 +38,7 @@
 }
 
 .header__link {
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-weight: normal;
   font-size: 18px;
   text-transform: lowercase;
@@ -52,7 +53,7 @@
 .address {
   display: flex;
   flex-direction: column;
-  font-family: Raleway;
+  font-family:  'Raleway', 'Arial', sans-serif;
   text-underline-offset: 4px;
   padding-bottom: 1px;
   padding-right: 1px;
@@ -88,6 +89,7 @@
 }
 
 .cover__title {
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-weight: bold;
   font-size: 100px;
   text-transform: uppercase;
@@ -132,7 +134,7 @@
 }
 
 .cover__description-text {
-  font-family: Raleway;
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-weight: normal;
   color: white;
   font-size: 22px;
@@ -141,7 +143,7 @@
 }
 
 .bet-button {
-  font-family: Raleway;
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-weight: normal;
   color: white;
   background-color: rgba(0, 0, 0, 0);
@@ -163,6 +165,7 @@
 
 .lots__heading {
   margin: 182px 0 27px 40px;
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-size: 40px;
   text-transform: uppercase;
 }
@@ -194,6 +197,7 @@
 
 .card__title {
   color: white;
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-weight: bold;
   font-size: 22px;
   text-transform: uppercase;
@@ -203,6 +207,7 @@
 
 .card__text {
   color: white;
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 120%;
@@ -230,6 +235,7 @@
 .lots__look-more-link {
   display: block;
   padding: 30px 0 0 40px;
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-size: 20px;
   text-underline-offset: 4px;
 }
@@ -268,12 +274,14 @@
   display: block;
   padding-top: 100px;
   padding-bottom: 100px;
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-weight: bold;
   font-size: 40px;
   text-transform: uppercase;
 }
 
 .about__text {
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-size: 20px;
   line-height: 117%;
 }
@@ -303,6 +311,7 @@
 }
 
 .footer__menu-link {
+  font-family:  'Raleway', 'Arial', sans-serif;
   font-size: 18px;
 }
 
