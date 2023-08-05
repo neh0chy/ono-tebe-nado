@@ -8,7 +8,7 @@
 
 .header {
   width: 100%;
-  padding: 92px 51px 0;
+  padding: 92px 51px;
 }
 
 .header__menu {
@@ -80,7 +80,6 @@
 
 .cover {
   width: 100%;
-  margin-top: 92px;
   min-height: 757px;
   background: no-repeat center/cover url(../images/cover.jpg);
   position: relative;
@@ -153,7 +152,7 @@
 /* lots */
 
 .lots {
-  padding: 182px 50px 0;
+  padding: 182px 50px 90px;
 }
 
 .lots__heading {
@@ -233,7 +232,7 @@
 /* about */
 
 .about {
-  padding: 180px 50px 0;
+  padding: 90px 50px 90px;
   display: grid;
   grid-template-columns: 430px 1fr;
   gap: 25px;
@@ -277,7 +276,7 @@
 /* footer */
 
 .footer {
-  padding: 185px 50px 90px;
+  padding: 95px 50px 90px;
   display: flex;
   justify-content: space-between;
 }
