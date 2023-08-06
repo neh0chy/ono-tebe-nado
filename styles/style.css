@@ -244,10 +244,12 @@
   display: grid;
   grid-template-columns: 430px 1fr;
   gap: 25px;
+  align-items: start;
+  justify-items: center;
+  background-color: bisque;
 }
 
 .about__logo-container {
-  margin: auto;
   display: flex;
   justify-content: center;
   align-items: center;
