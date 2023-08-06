@@ -65,7 +65,15 @@
   line-height: 135%;
 }
 
-.header__address {
+.address__phone {
+  font-style: normal;
+}
+
+.address__email {
+  font-style: normal;
+}
+
+.address__text {
   font-style: normal;
 }
 
